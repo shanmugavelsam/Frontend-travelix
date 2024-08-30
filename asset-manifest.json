@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/static/css/main.94a8ee65.css",
+    "main.js": "/static/js/main.5cdb25b3.js",
+    "static/js/453.ce373595.chunk.js": "/static/js/453.ce373595.chunk.js",
+    "static/media/bg_5.jpg": "/static/media/bg_5.34838095186ca2a9bde2.jpg",
+    "static/media/bg_1.jpg": "/static/media/bg_1.b424b2f1e78835cc0636.jpg",
+    "static/media/bg_2.jpg": "/static/media/bg_2.1fb957feb17d50a2c0bd.jpg",
+    "static/media/bg_4.jpg": "/static/media/bg_4.f03cd55434934960d81d.jpg",
+    "static/media/about-1.jpg": "/static/media/about-1.d6071787ee3826199da7.jpg",
+    "static/media/place-3.jpg": "/static/media/place-3.8549e5c6655f57e396ef.jpg",
+    "static/media/place-4.jpg": "/static/media/place-4.e5e1103eafbde4de5069.jpg",
+    "static/media/place-1.jpg": "/static/media/place-1.2f227034b8d1eb14bca8.jpg",
+    "static/media/hotel-resto-1.jpg": "/static/media/hotel-resto-1.600bd59e64be5d6c074b.jpg",
+    "static/media/services-2.jpg": "/static/media/services-2.01eb27156748587dcad3.jpg",
+    "static/media/place-5.jpg": "/static/media/place-5.bcbf74212c6c7021725a.jpg",
+    "static/media/services-4.jpg": "/static/media/services-4.43b3b72b1c73c16de046.jpg",
+    "static/media/hotel-resto-2.jpg": "/static/media/hotel-resto-2.29748d34307f050936f0.jpg",
+    "static/media/services-1.jpg": "/static/media/services-1.ee50e9e4598eb4f30d04.jpg",
+    "static/media/hotel-resto-7.jpg": "/static/media/hotel-resto-7.ba775c80d7f11499c80a.jpg",
+    "static/media/hotel-resto-4.jpg": "/static/media/hotel-resto-4.8f9836d205b1a4a7acab.jpg",
+    "static/media/hotel-resto-3.jpg": "/static/media/hotel-resto-3.fe7f91b2400c6fa81bd0.jpg",
+    "static/media/image_1.jpg": "/static/media/image_1.d4d3323595c8e86b89f8.jpg",
+    "static/media/place-2.jpg": "/static/media/place-2.f44befa7eb737b39e795.jpg",
+    "static/media/hotel-resto-5.jpg": "/static/media/hotel-resto-5.7a5d269392b087836e07.jpg",
+    "static/media/services-3.jpg": "/static/media/services-3.b4bf6412fe84b12dcd6c.jpg",
+    "static/media/bg_3.jpg": "/static/media/bg_3.3531b09d55f1bfbd07c9.jpg",
+    "static/media/hotel-resto-6.jpg": "/static/media/hotel-resto-6.4a27685b5fa05f8295dc.jpg",
+    "static/media/loader.gif.gif": "/static/media/loader.gif.826d8cc37bcb2dbf79e1.gif",
+    "static/media/Flaticon.svg": "/static/media/Flaticon.337e5e921036e0fedf3e.svg",
+    "static/media/Flaticon.eot": "/static/media/Flaticon.26641491f4c469dad32e.eot",
+    "static/media/Flaticon.ttf": "/static/media/Flaticon.a10667b8c485ef2962fe.ttf",
+    "static/media/Flaticon.woff": "/static/media/Flaticon.606c475626086ad3a031.woff",
+    "index.html": "/index.html",
+    "main.94a8ee65.css.map": "/static/css/main.94a8ee65.css.map",
+    "main.5cdb25b3.js.map": "/static/js/main.5cdb25b3.js.map",
+    "453.ce373595.chunk.js.map": "/static/js/453.ce373595.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.94a8ee65.css",
+    "static/js/main.5cdb25b3.js"
+  ]
+}
